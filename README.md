@@ -1,2 +1,2 @@
 # naomirichards.github.io
-Personal website
+Personal website created using Quarto docs with R
