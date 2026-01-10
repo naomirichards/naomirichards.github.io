@@ -1,0 +1,159 @@
+---
+title: "Curriculum vitae"
+---
+
+## {{< fa graduation-cap >}} Education
+
+**Master of Information**
+
+* Dalhousie University, Halifax, CA
+* Graduated May 2024
+* Concentrated focus on academic librarianship
+
+**B.Sc. Biology**
+
+* University of British Columbia, Vancouver, CA
+* Graduated May 2020 with Distinction
+* Minor in Classical Studies
+
+## {{< fa briefcase >}} Licenses & Certifications 
+
+**SciVal Certiciation Program**
+
+* Elseiver
+* November 2025
+
+**Associate Fellowship**
+
+* Advance HE
+* May 2025
+
+## {{< fa book >}} Library and Information Management Experience 
+
+**Research Intelligence Librarian**
+
+* University of Derby, Derby, UK
+* June 2025 - Present 
+* Duties include: 
+  + Leveraging research intelligence data to support strategic requests by University Leaders in relation topics such as institutional rankings (specifically KEF and REF), institutional open access impact and more
+  + Developing and giving instructional sessions to researchers and post-graduate students on responsible research metric use, SciVal, Alternative metrics (including Altmetrics, Plum Metrics, Policy Citations etc.), and Citation network tools (Inciteful Citation Atlas, Litmaps, Connected Papers)
+  + Developing new and enhancing already existing instructional material related to responsible research metric use, including internal Sharepoint pages, LibGuides, and a Responsible Research Metrics Module hosted on GitHub
+  + Providing a responsive enquiry service to support researchers regarding all topics related to research metrics / bibliometrics, including metric methodology, specific metric guidance and best practices, SciVal usage, Altmetrics etc.
+  + Designing and producing quarterly and yearly reports for the Library Services Research and Publication Practice Team to highlight trends in institutional repository deposits, publication trends, ORCiD registration numbers, non-academic collaborators etc. 
+  + Working alongside the university Impact Team to educate academics on REF, as well as support academics through the REF process, specifically the Engagement and Impact statements
+  + Assessing and providing feedback on both open access (OpenAlex, OpenCitations etc.) and proprietary (InCites, Altmetric Explorer) resources for both institutional bibliometric purposes as well as for transformative agreement assessment (particularly InCites)
+  + Working with the Publication Practice Librarian and Publication Practice Manager to enhance institutional repository usability for all university members through projects such as the consolidation of author affiliations, and addition of Altmetric badges
+  + Liaising with University leaders, academic staff and professional services staff to build positive relationships, and work collaboratively in order to promote responsible metric use. This includes activity participating as a member of various working groups across the institution, for example, the Open Research Group
+
+**Assistant Librarian of Academic Engagement**
+
+* University of Brighton, Brighton, UK
+* September 2024 - May 2025
+* Duties included: 
+  + Developing and giving instructional sessions to students on library services, literature searching, referencing, and EndNote
+  + Providing drop in one-on-one support to students regarding topics such as literature searching, reference, EndNote etc. 
+  + Supporting collections development and information resource budgeting for the School of Humanities as well as the School of Architecture, Technology, and Engineering
+  + Liaising with department faculty and academic staff
+Supporting academic staff in the creation and development of module reading lists using Tails Aspire software
+
+**Library Circulation Assistant**
+
+* Dalhousie University, Halifax, CA
+* September 2023 - April 2024
+* Duties included: 
+  + Charging and discharging library material to patrons
+  + Organizing and shelving of library material, according to the Library of Congress call number system
+
+**Records Management Intern**
+
+* Canadian Wildlife Service, Sackville, CA
+* May 2023 - August 2023
+* Duties included: 
+  + Establishing intellectual and physical control over a collection of research and grey literature by developing an inventory of over 600 items using Excel and OpenRefine
+  + Writing a Library Collection Management Policy as well as a Deselection and Disposal Policy pertaining to the collection of physical materials within the scope of the inventory. These documents outline and guide the upkeep and future maintenance of the collection
+  + Visualizing key factors in the collection (number of items kept vs. deaccessioned, number of items with digital copies, most prolific authors etc.) through Excel, Microsoft Visio and Microsoft Power BI in order to facilitate understanding of the collection holdings
+  + Developing a File Plan Structure and Information Architecture, including a folder structure, naming convention, and version control strategy to increase the productivity of shared drive use and navigation for all team members
+  + Constructing an automated system for the disposal or isolation of files in a shared folder using Microsoft Power Automate Desktop (PAD) and Excel (using Macros and VBA Coding), expediting the process of file isolation and clean up by hundreds of hours
+
+**Bishop White Committee Library Intern**
+
+* Royal Ontario Museum, Toronto, CA
+* April 2023 - May 2023
+* Duties included: 
+  + Establishing an inventory of the Bishop White Committee Library rare book collection in order to gain intellectual and physical control over the uncatalogued material 
+  + Evaluating material in regard to traditional Japanese book elements and bookbinding styles
+
+**Library Circulation Assistant**
+
+* University of British Columbia 
+* September 2019 - May 2020 
+* Duties included: 
+  + Organization and shelving of library material, including the Canadian Art Exhibition Catalogue Collection, according to the Library of Congress call number system
+  + Charging and discharging library materials to patrons 
+  + Retrieving material from UBC’s Automated Storage and Retrieval System
+
+## {{< fa pen >}} Publications
+
+* Richards, N. (2025). Information Without Borders (IWB) 2024 Conference Report. Pathfinder: A Canadian Journal for Information Science Students and Early Career Professionals, 5(1), 154-157. https://doi.org/10.29173/pathfinder113
+
+* Taylor, S. Cross, B., Nissen, A., McGregor, J. & Richards, N. (2025). From the Classroom to Journal Publication: A Guide to Publishing Accounting Pedagogy. Issues in Accounting Education, 40(3), 49-79. https://doi.org/10.2308/ISSUES-2023-026
+
+* Toupin, R., Melnick, K., Moharana, T., Curry, B., Gracey, C., Richards, N., MacDonald, B. H., & Mongeon, P. (2023). Measuring engagement with shark research in science, news and social media, and policy: A bibliometric analysis. Marine Policy, 157, 105829-. https://doi.org/10.1016/j.marpol.2023.105829
+
+## {{< fa user-group >}} Professional Service 
+
+**Deputy Blog Editor**
+
+* LIS Bibliometrics Committee
+* September 2025 - Present 
+* Duties include: 
+  + Ensuring timely and consistent posting and promotion of new additions to the blog
+  + Identifying and soliciting potential guest authors for relevant and cutting edge bibliometric commentary
+  + Facilitating all aspects of blog management including editing of content, ensuring authorship agreements have been signed and stored correctly, and using both the official blog Wordpress and LinkedIn accounts
+  
+**Peer-reviewer**
+
+* Pathfinder Jouranl
+* March 2024 - May 2025
+* Duties included: 
+  + Double-blind peer-reviewing of work submitted by Information Science students and early career professionals to the journal
+  
+**Co-Chair and Financial Chair**
+
+* Information Without Borders Conference Committee, Dalhousie University
+* September 2023 - May 2024
+* Duties included: 
+  + Facilitating and organizing of committee meetings
+  + Aiding executive members with tasks such as program planning, logistics (such as room booking and catering), registration, accessibility programming, marketing and promotion etc.
+  + Record keeping and budgeting 
+  
+**Co-Chair**
+
+* Information Science Student Association, Dalhousie University
+* May 2023 - May 2024
+* Duties included: 
+  + Organizing career and professional development workshops on academic, government, and archival resumes and job applications
+  + Implementing a mentorship program for current Dalhousie Master of Information students to connect with alumni and discuss items such as networking, career development, how to prep for interviews etc.
+  + Relationship building with the Dalhousie Library and Information Alumni Association and the Department of Information Science faculty
+  
+**Peer-reviewer**
+
+* Dalhousie Journal of Interdisciplinary Management
+* November 2022 - April 2023
+* Duties included: 
+  + Double-blind peer-reviewing of papers submitted by Dalhousie students to the journal
+
+## {{< fa user-gear >}} Skills
+
+**Programming and Data Visualisation**
+
+* Proficient in R, Microsoft PowerBI, Microsoft Visio, Open Refine
+* Developing in HTML, CSS
+
+**Library Management Software and Cataloguing**
+
+* Proficient in Library of Congress Classification, Alma, Soprano, Springshare
+* Developing in MARC, RDA, Dewey
+
+
+

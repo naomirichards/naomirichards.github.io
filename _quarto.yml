@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Naomi Richards"
+  repo-url: "https://github.com/naomirichards/naomirichards.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+        icon: person-circle
+      - href: CV.qmd
+        text: CV
+        icon: file-earmark-text-fill
+    right:
+      - href: https://github.com/naomirichards
+        aria-label: GitHub
+        icon: github
+      - href: https://www.linkedin.com/in/naomi-richards-52270038b/
+        aria-label: LinkedIn
+        icon: linkedin
+      - href: https://orcid.org/0009-0007-3935-7890
+        aria-label: ORCiD
+        text: ORCiD
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
