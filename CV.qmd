@@ -1,13 +1,14 @@
 ---
 title: "Curriculum vitae"
+css: styles.css
 ---
 
 ## {{< fa graduation-cap >}} Education
 
-**Master of Information**
+**Master of Information**{text-align="left"}
+**Graduated May 2024**{text-align="right"}
 
 * Dalhousie University, Halifax, CA
-* Graduated May 2024
 * Concentrated focus on academic librarianship
 
 **B.Sc. Biology**
@@ -18,10 +19,11 @@ title: "Curriculum vitae"
 
 ## {{< fa briefcase >}} Licenses & Certifications 
 
-**SciVal Certiciation Program**
+**SciVal Certiciation Program** ![](images/SciVal_Badge.jpeg){fig-align='right' fig-alt="SciVal Certification"}
 
-* Elseiver
+* Elseiver 
 * November 2025
+
 
 **Associate Fellowship**
 

@@ -2,6 +2,7 @@
 title: "Naomi Richards"
 image: images/Naomi_pfp.JPG
 image-alt: "headshot of naomi richards"
+css: styles.css
 about: 
   template: jolla
   links: 
@@ -19,4 +20,4 @@ about:
 
 I am an early career librarian and bibliometrician who is passionate about responsible metric use and highlighting impact and knowledge dissemination using Alternative Metrics. My other professional interests include forensic scientometrics, open research, and visual data storytelling!
 
-Outside of work, I love reading, knitting, and hiking! I also love learningn languages, although I wouldn't say I'm particularly good at it, and besides English and speak a little French, Dutch, and Italian (all very badly)!
+Outside of work, I love reading, knitting, and hiking! I also love learning languages, although I wouldn't say I'm particularly good at it, and besides English I speak a little French, Dutch, and Italian (all very badly)!

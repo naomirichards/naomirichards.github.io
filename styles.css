@@ -1,5 +1,11 @@
 /* css styles */
 
-#nav {
+.navbar {
   background-color: #CCDDE2;
+  padding: 15px;
 }
+
+h1 {
+  padding: 20px;
+}
+
