@@ -47,7 +47,7 @@ css: styles.css
 * June 2025 - Present 
 * Duties include: 
   + Leveraging research intelligence data to support strategic requests by University Leaders in relation topics such as institutional rankings (specifically KEF and REF), institutional open access impact and more
-  + Developing and giving instructional sessions to researchers and post-graduate students on responsible research metric use, SciVal, Alternative metrics (including Altmetrics, Plum Metrics, Policy Citations etc.), and Citation network tools (Inciteful Citation Atlas, Litmaps, Connected Papers)
+  + Developing and giving instructional sessions to researchers and post-graduate students on responsible research metric use, SciVal, Alternative metrics (including Altmetrics, Plum Metrics, Policy Citations etc.), Excel, R coding and Citation network tools (Inciteful Citation Atlas, Litmaps, Connected Papers)
   + Developing new and enhancing already existing instructional material related to responsible research metric use, including internal Sharepoint pages, LibGuides, and a Responsible Research Metrics Module hosted on GitHub
   + Providing a responsive enquiry service to support researchers regarding all topics related to research metrics / bibliometrics, including metric methodology, specific metric guidance and best practices, SciVal usage, Altmetrics etc.
   + Designing and producing quarterly and yearly reports for the Library Services Research and Publication Practice Team to highlight trends in institutional repository deposits, publication trends, ORCiD registration numbers, non-academic collaborators etc. 
@@ -103,7 +103,10 @@ Supporting academic staff in the creation and development of module reading list
   + Charging and discharging library materials to patrons 
   + Retrieving material from UBC’s Automated Storage and Retrieval System
 
-## {{< fa pen >}} Publications
+## {{< fa pen >}} Publications and Presentations
+* Richards, N. (2026). Book Review: Paul C. Campbell and Sarah Nagle. Librarians as Researchers: Developing our Scholarly Identities. Bloomsbury Publishing, 2025. The Canadian Journal of Information and Library Science, 49(2). https://doi.org/10.5206/cjils-rcsib.v49i2.27445
+
+* Richards, N. (2026). SciVal for Research Metric Reporting in Promotion Process Support. Speaker at the Elsevier Impact Conference 2026, Madrid, Spain. 
 
 * Richards, N. (2025). Information Without Borders (IWB) 2024 Conference Report. Pathfinder: A Canadian Journal for Information Science Students and Early Career Professionals, 5(1), 154-157. https://doi.org/10.29173/pathfinder113
 
@@ -112,6 +115,14 @@ Supporting academic staff in the creation and development of module reading list
 * Toupin, R., Melnick, K., Moharana, T., Curry, B., Gracey, C., Richards, N., MacDonald, B. H., & Mongeon, P. (2023). Measuring engagement with shark research in science, news and social media, and policy: A bibliometric analysis. Marine Policy, 157, 105829-. https://doi.org/10.1016/j.marpol.2023.105829
 
 ## {{< fa user-group >}} Professional Service 
+
+**Bibliometrician**
+
+* CILIP Journal of Information Literacy
+* July 2026 - Present
+* Duties include:
+  + Twice annually bibliometric reporting on journal performance using The Open Journal System metrics alongside external data sources such as Scopus, Altmetric etc. 
+  + Indexing of the journal in appropriate, reputable databases
 
 **Deputy Blog Editor**
 
